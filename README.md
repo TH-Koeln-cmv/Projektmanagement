@@ -25,10 +25,10 @@ Folgende Darstellung visualisiert die Projektphasen
 
 #### Phasen
 Das Board besitzt sieben Spalten, welche die verschiedenen Projektmanagement Phasen darstellen. Die Phasen sind in der vorigen Abbildung anhand unterschiedlicher Farben visualisiert.
-Die Phasen besitzen keine zeitliche Eingrenzung um eurem Projekt und euch den nötigen Freiraum zu geben.
+Die Phasen besitzen keine zeitliche Eingrenzung, um eurem Projekt und euch den nötigen Freiraum zu geben.
 
 #### Issues
-Innerhalb der Phasen liegen die zu bearbeitenden Issues. Ein Issue besteht aus einer kurzen Erklärung zum Thema, Fragestellungen und optional Methoden Vorschlägen. Die Issues können nach Belieben und Notwendigkeit bearbeitet werden. Es wird empfohlen die Inhalte der Issues in das eigene Repository zu kopieren. Dabei kann entschieden werden, welche Issues mit aufgenommen werden. So bleibt das Team in der Bearbeitung flexibel. Die vorgegebene Struktur mit den passenden Labeln kann natürlich weiterhin in diesem Repository eingesehen werden.
+Innerhalb der Phasen liegen die zu bearbeitenden Issues. Ein Issue besteht aus einer kurzen Erklärung zum Thema, Fragestellungen und optional Methoden-Vorschläge. Die Issues können nach Belieben und Notwendigkeit bearbeitet werden. Es wird empfohlen die Inhalte der Issues in das eigene Repository zu kopieren. Dabei kann entschieden werden, welche Issues mit aufgenommen werden. So bleibt das Team in der Bearbeitung flexibel. Die vorgegebene Struktur mit den passenden Labeln kann natürlich weiterhin in diesem Repository eingesehen werden.
 
 #### Label
 Auf den Issues sind Label vermerkt. Anhand dieser Label kann das Issue in einen bestimmten Bereich des Projektmanagements verortet werden.
