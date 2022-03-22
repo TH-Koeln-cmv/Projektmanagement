@@ -7,7 +7,7 @@ Viel Spaß bei der Projektdurchführung!
 
 ## Anleitung
 
-[Das Board](https://github.com/annasubach/WTW-Projektmanagment-Test/projects/1) bietet Issues, die in Projektphasen eingeteilt sind. Alle Aufgaben/Fragestellungen bieten die Möglichkeit, das eigene Projektmanagement zu entwickeln oder zu verbessern. Es ist jedem Team frei gestellt, diese unterstützenden Issues zu bearbeiten. Auch ist es möglich, nur einen Teil der Issues zu verwenden. Im Prozess getroffene Entscheidungen und Beschlüsse können wären des Projekts neu betrachtet werden. Wenn festgestellt wird, dass eine Strategie nicht funktioniert, könnt ihr diese überdenken und erneut in die Planung gehen. Wichtig hierbei ist es, sich beim Treffen jeder Entscheidung bewusst zu sein, dass eine Umstrukturierung zu zusätzlichem Aufwand führen kann.
+[Das Board](https://github.com/TH-Koeln-cmv/Projektmanagement/projects/1) bietet Issues, die in Projektphasen eingeteilt sind. Alle Aufgaben/Fragestellungen bieten die Möglichkeit, das eigene Projektmanagement zu entwickeln oder zu verbessern. Es ist jedem Team frei gestellt, diese unterstützenden Issues zu bearbeiten. Auch ist es möglich, nur einen Teil der Issues zu verwenden. Im Prozess getroffene Entscheidungen und Beschlüsse können wären des Projekts neu betrachtet werden. Wenn festgestellt wird, dass eine Strategie nicht funktioniert, könnt ihr diese überdenken und erneut in die Planung gehen. Wichtig hierbei ist es, sich beim Treffen jeder Entscheidung bewusst zu sein, dass eine Umstrukturierung zu zusätzlichem Aufwand führen kann.
 Folgende Darstellung visualisiert die Projektphasen
 ![Concept Map](https://github.com/TH-Koeln-cmv/Projektmanagement/blob/main/Concept%20Map%20PM.jpg) 
 
